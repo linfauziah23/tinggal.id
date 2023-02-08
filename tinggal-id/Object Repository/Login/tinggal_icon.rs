@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tinggal_icon</name>
+   <tag></tag>
+   <elementGuidId>957aaba3-989b-4c9a-a989-d9598cf07bc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-default']/header/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2392c9fa-424c-4c7e-b733-dd1ad05fc2db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-1 justify-center md:justify-start items-center</value>
+      <webElementGuid>e626ecf3-43bb-4447-b046-68bbea66554b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-default&quot;)/header[@class=&quot;header&quot;]/div[@class=&quot;header-navbar flex py-4 px-6 justify-between items-center mx-auto max-w-screen-2xl md:px-16 xl:px-20&quot;]/div[@class=&quot;flex items-center flex-1&quot;]/div[@class=&quot;flex flex-1 justify-center md:justify-start items-center&quot;]</value>
+      <webElementGuid>e8b61f8f-9045-412b-be26-59f363dcfe28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-default']/header/div/div/div</value>
+      <webElementGuid>5a475e26-edf1-4a08-a824-0509913ff7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Agen &amp; Developer'])[1]/following::div[4]</value>
+      <webElementGuid>89a8cb7f-2b9c-4329-b4b8-3407338a83ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::div[5]</value>
+      <webElementGuid>9390f88c-f381-4088-ad89-09f77d1e1527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disewakan'])[1]/preceding::div[2]</value>
+      <webElementGuid>ece2531c-42aa-4e80-b5b4-7931144ca8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dijual'])[1]/preceding::div[3]</value>
+      <webElementGuid>6ae412dc-11fb-4478-bb58-9bc2f6f569e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div</value>
+      <webElementGuid>db10423a-3a0d-4b26-9c43-e8a2a35fe1c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

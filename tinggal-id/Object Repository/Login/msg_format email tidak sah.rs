@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msg_format email tidak sah</name>
+   <tag></tag>
+   <elementGuidId>0304b65e-b4ed-42f7-bf9b-9f7df0b25a72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-13']/div/div[2]/div[2]/div/div/form/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>159bb7e6-ca20-4cca-bb63-c05c0528879a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex rounded-lg px-3 py-1.5 bg-opacity-5 w-full bg-special-danger text-special-danger mt-2</value>
+      <webElementGuid>c7afeb78-ec51-4ac2-bd8c-04d3b11a7312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Format email tidak sah</value>
+      <webElementGuid>5d76ee7b-98ed-4626-bb2e-f22d9e6c1726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-13&quot;)/div[@class=&quot;min-h-screen text-center&quot;]/div[@class=&quot;modal-container rounded-lg&quot;]/div[@class=&quot;overflow-y-auto pb-6 px-6 pt-6&quot;]/div[@class=&quot;max-h-content-modal -mt-6&quot;]/div[@class=&quot;flex flex-col&quot;]/form[@class=&quot;pt-8 flex flex-col&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;inline-flex rounded-lg px-3 py-1.5 bg-opacity-5 w-full bg-special-danger text-special-danger mt-2&quot;]</value>
+      <webElementGuid>3572f372-f16a-42b4-a49d-630a08ca7f9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-13']/div/div[2]/div[2]/div/div/form/div/div[3]</value>
+      <webElementGuid>088937db-ef99-4be2-a6ed-6d49598beb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[3]</value>
+      <webElementGuid>f19d8cea-51e8-4249-b4d4-b25d0f7dee1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[5]</value>
+      <webElementGuid>9a72638a-2912-4300-bdd0-2c5d9e1de62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::div[2]</value>
+      <webElementGuid>9e5e7e51-b9f0-4f20-8506-badad3b984f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]</value>
+      <webElementGuid>d6f77975-7781-45c8-890a-c84cb964cfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Format email tidak sah' or . = 'Format email tidak sah')]</value>
+      <webElementGuid>085d12ff-c1b4-4b1d-b851-9d933ea5c7b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

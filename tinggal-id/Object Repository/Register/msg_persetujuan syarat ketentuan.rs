@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msg_persetujuan syarat ketentuan</name>
+   <tag></tag>
+   <elementGuidId>676ac947-5eea-41fb-8f45-359d86f1088e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-13']/div/div[2]/div[2]/div/div/form/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa684aa6-8ce8-480b-bd91-96ec21ecf6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex rounded-lg px-3 py-1.5 bg-opacity-5 w-full bg-special-danger text-special-danger mt-4</value>
+      <webElementGuid>c1360eb9-743f-4ae2-972b-8e02017aa744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda belum menyetujui syarat &amp; ketentuan</value>
+      <webElementGuid>93fe7b9e-9608-4b5b-96e5-eba5d495502a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-13&quot;)/div[@class=&quot;min-h-screen text-center&quot;]/div[@class=&quot;modal-container rounded-lg&quot;]/div[@class=&quot;overflow-y-auto pb-6 px-6 pt-6&quot;]/div[@class=&quot;-mt-6 max-h-content-modal&quot;]/div[@class=&quot;flex flex-col&quot;]/form[@class=&quot;pt-8&quot;]/div[@class=&quot;inline-flex rounded-lg px-3 py-1.5 bg-opacity-5 w-full bg-special-danger text-special-danger mt-4&quot;]</value>
+      <webElementGuid>2cf8e344-b3fc-43a9-a99e-ad6e2c66009c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-13']/div/div[2]/div[2]/div/div/form/div[4]</value>
+      <webElementGuid>9a008288-b7b0-4eea-9a28-55ada8804515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/following::div[1]</value>
+      <webElementGuid>b8fe8ef0-5f7f-446f-952a-d6cf9fbddd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya setuju dengan'])[1]/following::div[1]</value>
+      <webElementGuid>3f577765-5a8a-450f-b894-bbae027b5137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::div[2]</value>
+      <webElementGuid>ef44234a-5a56-4869-a458-1ffe31bbc849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>c0e85896-b5c9-41e6-a00b-92c33c515c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anda belum menyetujui syarat &amp; ketentuan' or . = 'Anda belum menyetujui syarat &amp; ketentuan')]</value>
+      <webElementGuid>0b18ab3f-9fa4-429d-bcec-89425e7eb3f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

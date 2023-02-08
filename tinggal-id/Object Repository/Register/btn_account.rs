@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_account</name>
+   <tag></tag>
+   <elementGuidId>75483e28-c094-4dc3-91fc-a809fed3bd09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-default']/header/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.-my-3.self-center.ml-4.rounded-lg.px-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>086f1f0e-472d-4aab-a35e-73514caf74f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex -my-3 self-center ml-4 rounded-lg px-1</value>
+      <webElementGuid>e1eccef1-57c5-434a-94e3-1043695e1e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-default&quot;)/header[@class=&quot;header&quot;]/div[@class=&quot;header-navbar flex py-4 px-6 justify-between items-center mx-auto max-w-screen-2xl md:px-16 xl:px-20&quot;]/div[@class=&quot;hidden md:flex items-center&quot;]/div[@class=&quot;flex -my-3 self-center ml-4 rounded-lg px-1&quot;]</value>
+      <webElementGuid>10dd2741-4f3c-4448-aa67-ffee74c571b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-default']/header/div/div[2]/div</value>
+      <webElementGuid>6f3b4c74-57fc-4920-bf04-f76a6d51e883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftarkan Properti'])[1]/following::div[1]</value>
+      <webElementGuid>8d1d455e-b4e2-40ff-95b1-a766ccba00de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel &amp; Berita'])[1]/following::div[2]</value>
+      <webElementGuid>4b7848ee-ae50-47bd-8afa-548af7a6bf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disewakan'])[2]/preceding::div[8]</value>
+      <webElementGuid>c0df9630-ac92-41bd-9453-987e56ccc75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dijual'])[2]/preceding::div[8]</value>
+      <webElementGuid>4707790a-da63-44c6-b224-64dcafd4f054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div[2]/div</value>
+      <webElementGuid>93fe4b8d-3ba2-44ec-8bbc-50de6542af39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

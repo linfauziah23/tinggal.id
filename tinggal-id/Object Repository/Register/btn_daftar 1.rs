@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_daftar 1</name>
+   <tag></tag>
+   <elementGuidId>67d868b4-b03c-4c3b-8042-0114bdefe074</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--md.btn--primary.w-full.mt-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c72b779a-4f51-48af-a557-f44dab6dbb0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c0ee87ef-5d7b-429d-adcc-94ee1a137293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--md btn--primary w-full mt-8</value>
+      <webElementGuid>a9feb14c-b025-403a-be28-8d679d269dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>279f29bb-2a15-489c-b5b8-6541ad330a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-26&quot;)/div[@class=&quot;min-h-screen text-center&quot;]/div[@class=&quot;modal-container rounded-lg&quot;]/div[@class=&quot;overflow-y-auto pb-6 px-6 pt-6&quot;]/div[@class=&quot;-mt-6 max-h-content-modal&quot;]/div[@class=&quot;flex flex-col&quot;]/form[@class=&quot;pt-8&quot;]/button[@class=&quot;btn btn--md btn--primary w-full mt-8&quot;]</value>
+      <webElementGuid>e1adfa67-700a-484e-ba42-77ad3f71cec5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>73f8e85e-c348-4f61-a95f-a5b6e27ff3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-26']/div/div[2]/div[2]/div/div/form/button</value>
+      <webElementGuid>8f5a3160-990e-417f-aba6-605a7583b56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/following::button[1]</value>
+      <webElementGuid>ba37468d-283e-42a8-9aa3-6f36605bd97d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya setuju dengan'])[1]/following::button[1]</value>
+      <webElementGuid>15d7f8c8-5c55-4106-9b8e-cb61cb749530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau Daftar Dengan'])[1]/preceding::button[1]</value>
+      <webElementGuid>f8ecd2ce-4590-4996-a0cc-c73fb7439dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/form/button</value>
+      <webElementGuid>6c71b1ce-e3df-4764-8059-2cc1cec6fa50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>fac7b69e-9b8e-4c5e-bbbc-7d3a9153209e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

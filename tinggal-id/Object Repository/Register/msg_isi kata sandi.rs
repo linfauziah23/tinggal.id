@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>msg_isi kata sandi</name>
+   <tag></tag>
+   <elementGuidId>fa7ea095-35af-44f0-94c2-977341c729a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-13']/div/div[2]/div[2]/div/div/form/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fbaa158d-541a-430b-a6f2-2216ffdb624a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex rounded-lg px-3 py-1.5 bg-opacity-5 w-full bg-special-danger text-special-danger mt-2</value>
+      <webElementGuid>3550f9f3-8880-4ef1-b67b-6a14a4c7e3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda belum mengisi kata sandi</value>
+      <webElementGuid>18b08d13-23b0-4940-83a2-8d6547b47639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-13&quot;)/div[@class=&quot;min-h-screen text-center&quot;]/div[@class=&quot;modal-container rounded-lg&quot;]/div[@class=&quot;overflow-y-auto pb-6 px-6 pt-6&quot;]/div[@class=&quot;-mt-6 max-h-content-modal&quot;]/div[@class=&quot;flex flex-col&quot;]/form[@class=&quot;pt-8&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;inline-flex rounded-lg px-3 py-1.5 bg-opacity-5 w-full bg-special-danger text-special-danger mt-2&quot;]</value>
+      <webElementGuid>f990148c-53b3-495c-aaa9-74da0c86fa4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-13']/div/div[2]/div[2]/div/div/form/div[2]/div[3]</value>
+      <webElementGuid>8a7c7b10-62f5-42c2-b066-f9e2b0005cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::div[4]</value>
+      <webElementGuid>06f1f5a1-1a0e-4522-9cde-945af8010368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda belum mengisi email'])[1]/following::div[6]</value>
+      <webElementGuid>c52fa290-c73b-4d65-906a-8dea55da52b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya setuju dengan'])[1]/preceding::div[2]</value>
+      <webElementGuid>e6fed2e6-0f40-4fb0-9b8d-713e0d10acf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div[3]</value>
+      <webElementGuid>d1c5671f-a0ca-4f59-bbe6-dbc25c741150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anda belum mengisi kata sandi' or . = 'Anda belum mengisi kata sandi')]</value>
+      <webElementGuid>b523b521-e9f8-40b9-bc63-792bd721a439</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
